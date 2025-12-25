@@ -1,10 +1,10 @@
-# 📻 Preamplifier with the TL071 Op-Amp
+# 📻 TL071 op-amp Preamplifier
 
 This is a simple **single-sided** PCB design (+schematic included) for the TL071 _*family_ operational amplifiers. I have used this IC in various projects over the years, and this board was born as a development tool / development instrument. 
 
 ### Instructions
 
-This project was developed and published by `Francis Studios` in 2025
+This KiCad project was developed and published by `Francis Studios` in 2025
 
 The circuit board is designed for single sided PCB manufacturing _(homemade PCB etching technologies)_ and was Open Sourced by the above mentioned project author. **Only use at your own risk and responsibility!** The repository / project owner does not take any responsibilities for injuries or broken equipment.
 
